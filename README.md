@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satwik068/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0054-spiral-matrix](https://github.com/satwik068/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0217-contains-duplicate](https://github.com/satwik068/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/satwik068/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/satwik068/LeetCode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -57,4 +58,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/satwik068/LeetCode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/satwik068/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/satwik068/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/satwik068/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
