@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/satwik068/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satwik068/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satwik068/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/satwik068/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/satwik068/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 ## Math
@@ -43,11 +44,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/satwik068/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0496-next-greater-element-i](https://github.com/satwik068/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0645-set-mismatch](https://github.com/satwik068/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/satwik068/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0645-set-mismatch](https://github.com/satwik068/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,4 +116,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/satwik068/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
