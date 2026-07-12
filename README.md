@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/satwik068/LeetCode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/satwik068/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/satwik068/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/satwik068/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0645-set-mismatch](https://github.com/satwik068/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satwik068/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -84,8 +85,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/satwik068/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/satwik068/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
