@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-divisor-game](https://github.com/satwik068/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/satwik068/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satwik068/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/satwik068/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/satwik068/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/satwik068/LeetCode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/satwik068/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0645-set-mismatch](https://github.com/satwik068/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/satwik068/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
