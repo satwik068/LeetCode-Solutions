@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/satwik068/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/satwik068/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/satwik068/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/satwik068/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/satwik068/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/satwik068/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/satwik068/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/satwik068/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/satwik068/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/satwik068/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1025-divisor-game](https://github.com/satwik068/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/satwik068/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satwik068/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/satwik068/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/satwik068/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/satwik068/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/satwik068/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/satwik068/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
