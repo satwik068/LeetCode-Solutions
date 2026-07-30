@@ -29,7 +29,10 @@ class Solution {
             temp = temp.next;
             count++;
         }
-        Arrays.sort(a);
-        return a[size/2-1];
+        int ans = Integer.MIN_VALUE;
+        for(int i=0; i<a.length; i++){
+            ans = Math.max(ans, a[i]);
+        }
+        return ans;
     }
 }
