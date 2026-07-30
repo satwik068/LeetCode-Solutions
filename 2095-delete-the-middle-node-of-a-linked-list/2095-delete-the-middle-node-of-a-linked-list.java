@@ -26,7 +26,9 @@ class Solution {
             temp = temp.next;
             index--;
         }
-        temp.next = temp.next.next;
+        ListNode temp2 = temp.next;
+        temp.next = temp2.next;
+        temp2.next = null;
         return head;
     }
 }
