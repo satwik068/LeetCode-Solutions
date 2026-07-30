@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/satwik068/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/satwik068/LeetCode-Solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/satwik068/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/satwik068/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
