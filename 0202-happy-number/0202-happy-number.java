@@ -18,11 +18,7 @@ class Solution {
             slow = sum(slow);
             fast = sum(sum(fast));
         }while(fast!=slow);
-        if(fast==1){
-            return true;
-        }
-        else{
-            return false;
-        }
+        
+        return slow==1;
     }
 }
