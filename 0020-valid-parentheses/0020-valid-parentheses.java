@@ -3,7 +3,7 @@ class Solution {
         Stack<Character> stack = new Stack<>();
         for(int i=0; i<s.length(); i++){
             char ch = s.charAt(i);
-            if("({[".indexOf(ch)!=-1){
+            if(ch == '(' || ch == '{' || ch == '['){
                 stack.push(s.charAt(i));
             }
             else if(stack.isEmpty()) return false;
