@@ -45,11 +45,13 @@ class Solution {
         ListNode temp = head2;
         while(head2!=null){
             if(head.val!=head2.val){
+                head2 = reverseList(temp);
                 return false;
             }
             head = head.next;
             head2 = head2.next;
         }
+        head2 = reverseList(temp);
         return true;
     }
 }
