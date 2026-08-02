@@ -15,7 +15,7 @@ class Solution {
             s.push(i);
         }
 
-        while(s.size()>0) s.pop();
+        while(!s.isEmpty()) s.pop();
 
         for(int i=0; i<n; i++){
             while(s.size()>0 && heights[i]<=heights[s.peek()]){
