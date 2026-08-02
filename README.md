@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/satwik068/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/satwik068/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/satwik068/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/satwik068/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/satwik068/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/satwik068/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/satwik068/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0143-reorder-list](https://github.com/satwik068/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/satwik068/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/satwik068/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/satwik068/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0092-reverse-linked-list-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/satwik068/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/satwik068/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/satwik068/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/satwik068/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/satwik068/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -361,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/satwik068/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/satwik068/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0143-reorder-list](https://github.com/satwik068/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/satwik068/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/satwik068/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/satwik068/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
