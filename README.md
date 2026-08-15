@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-maximize-active-section-with-trade-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/satwik068/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/satwik068/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/satwik068/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satwik068/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/satwik068/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/satwik068/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/satwik068/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
