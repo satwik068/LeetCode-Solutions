@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/satwik068/LeetCode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satwik068/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/satwik068/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/satwik068/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/satwik068/LeetCode-Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/satwik068/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/satwik068/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/satwik068/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/satwik068/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satwik068/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/satwik068/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/satwik068/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satwik068/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/satwik068/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/satwik068/LeetCode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/satwik068/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satwik068/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -281,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0645-set-mismatch](https://github.com/satwik068/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/satwik068/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/satwik068/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/satwik068/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/satwik068/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
