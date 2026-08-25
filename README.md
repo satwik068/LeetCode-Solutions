@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/satwik068/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/satwik068/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/satwik068/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/satwik068/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/satwik068/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satwik068/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/satwik068/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/satwik068/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/satwik068/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/satwik068/LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1025-divisor-game](https://github.com/satwik068/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
@@ -465,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/satwik068/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/satwik068/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/satwik068/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -552,4 +555,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/satwik068/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
