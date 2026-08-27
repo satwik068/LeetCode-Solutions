@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/satwik068/LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/satwik068/LeetCode-Solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/satwik068/LeetCode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satwik068/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/satwik068/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/satwik068/LeetCode-Solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/satwik068/LeetCode-Solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-divisor-game](https://github.com/satwik068/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/satwik068/LeetCode-Solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1406-stone-game-iii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satwik068/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1510-stone-game-iv](https://github.com/satwik068/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
