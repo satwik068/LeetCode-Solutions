@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/satwik068/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/satwik068/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/satwik068/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/satwik068/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/satwik068/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/satwik068/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/satwik068/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/satwik068/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/satwik068/LeetCode-Solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Simulation
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/satwik068/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/satwik068/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/satwik068/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0118-pascals-triangle](https://github.com/satwik068/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satwik068/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/satwik068/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
