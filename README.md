@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/satwik068/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/satwik068/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/satwik068/LeetCode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satwik068/LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/satwik068/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/satwik068/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/satwik068/LeetCode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0392-is-subsequence](https://github.com/satwik068/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/satwik068/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/satwik068/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -594,8 +596,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/satwik068/LeetCode-Solutions/tree/main/0279-perfect-squares/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/satwik068/LeetCode-Solutions/tree/main/0279-perfect-squares/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
