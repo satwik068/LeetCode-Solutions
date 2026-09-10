@@ -564,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/satwik068/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/satwik068/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/satwik068/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -605,10 +606,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/satwik068/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/satwik068/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/satwik068/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/satwik068/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
