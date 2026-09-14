@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/satwik068/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/satwik068/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/satwik068/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/satwik068/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/satwik068/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/satwik068/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -644,4 +645,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/satwik068/LeetCode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/satwik068/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
