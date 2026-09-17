@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/satwik068/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/satwik068/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2326-spiral-matrix-iv](https://github.com/satwik068/LeetCode-Solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/satwik068/LeetCode-Solutions/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/satwik068/LeetCode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satwik068/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -422,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/satwik068/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/satwik068/LeetCode-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/satwik068/LeetCode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/satwik068/LeetCode-Solutions/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/satwik068/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/satwik068/LeetCode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Counting Sort
@@ -645,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/satwik068/LeetCode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/satwik068/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/satwik068/LeetCode-Solutions/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -654,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/satwik068/LeetCode-Solutions/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
