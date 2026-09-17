@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satwik068/LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/satwik068/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/satwik068/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/satwik068/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/satwik068/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/satwik068/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/satwik068/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/satwik068/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/satwik068/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
@@ -531,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/satwik068/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/satwik068/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
+| [0494-target-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -647,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/satwik068/LeetCode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/satwik068/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/satwik068/LeetCode-Solutions/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
@@ -657,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/satwik068/LeetCode-Solutions/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
