@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3513-number-of-unique-xor-triplets-i](https://github.com/satwik068/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/satwik068/LeetCode-Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/satwik068/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/satwik068/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/satwik068/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/satwik068/LeetCode-Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/satwik068/LeetCode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/satwik068/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satwik068/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -537,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/satwik068/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3525-find-x-value-of-array-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
