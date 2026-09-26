@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/satwik068/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/satwik068/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/satwik068/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/satwik068/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/satwik068/LeetCode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/satwik068/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/satwik068/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/satwik068/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/satwik068/LeetCode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1679-max-number-of-k-sum-pairs](https://github.com/satwik068/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/satwik068/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/satwik068/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satwik068/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/satwik068/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/satwik068/LeetCode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/satwik068/LeetCode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -382,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/satwik068/LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/satwik068/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satwik068/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1441-build-an-array-with-stack-operations](https://github.com/satwik068/LeetCode-Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/satwik068/LeetCode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satwik068/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -554,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/satwik068/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/satwik068/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0494-target-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -617,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/satwik068/LeetCode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/satwik068/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/satwik068/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/satwik068/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Graph Theory
