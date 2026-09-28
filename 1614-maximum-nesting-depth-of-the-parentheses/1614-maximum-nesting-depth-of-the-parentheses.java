@@ -3,11 +3,11 @@ class Solution {
         int depth = 0;
         int maxDepth = 0;
 
-        for (char ch : s.toCharArray()) {
-            if (ch == '(') {
+        for (char c : s.toCharArray()) {
+            if (c == '(') {
                 depth++;
                 maxDepth = Math.max(maxDepth, depth);
-            } else if (ch == ')') {
+            } else if (c == ')') {
                 depth--;
             }
         }
