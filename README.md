@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/satwik068/LeetCode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/satwik068/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/satwik068/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/satwik068/LeetCode-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/satwik068/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/satwik068/LeetCode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/satwik068/LeetCode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -454,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/satwik068/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/satwik068/LeetCode-Solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/satwik068/LeetCode-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1406-stone-game-iii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satwik068/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1510-stone-game-iv](https://github.com/satwik068/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
