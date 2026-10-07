@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/satwik068/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/satwik068/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/satwik068/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/satwik068/LeetCode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/satwik068/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/satwik068/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/satwik068/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -589,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/satwik068/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/satwik068/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/satwik068/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/satwik068/LeetCode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/satwik068/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -653,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/satwik068/LeetCode-Solutions/tree/main/0279-perfect-squares/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/satwik068/LeetCode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/satwik068/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/satwik068/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
