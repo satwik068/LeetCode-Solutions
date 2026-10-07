@@ -1,16 +1,21 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        Stack<Character> st = new Stack<>();
+        int open = 0;   // unmatched '('
+        int add = 0;    // '(' needed for unmatched ')'
 
-        for(char ch:s.toCharArray()){
-            if(ch==')'){
-                if(!st.isEmpty() && st.peek()=='(') st.pop();
-                else st.push(ch);
-            }
-            else{
-                st.push(ch);
+        for (char ch : s.toCharArray()) {
+            if (ch == '(') {
+                open++;
+            } else {
+                if (open > 0) {
+                    open--;   // match this ')' with an existing '('
+                } else {
+                    add++;    // need to add '(' before this ')'
+                }
             }
         }
-        return st.size();
+
+        // 'open' closing parentheses are still needed
+        return add + open;
     }
 }
