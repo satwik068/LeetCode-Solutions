@@ -657,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/satwik068/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0547-number-of-provinces](https://github.com/satwik068/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/satwik068/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/satwik068/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/satwik068/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -666,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0301-remove-invalid-parentheses](https://github.com/satwik068/LeetCode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/satwik068/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/satwik068/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/satwik068/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/satwik068/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/satwik068/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -673,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/satwik068/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/satwik068/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/satwik068/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
