@@ -24,7 +24,6 @@ class Solution {
                 }
             }
         }
-        if(vis[destination]) return true;
-        return false;
+        return vis[destination];
     }
 }
