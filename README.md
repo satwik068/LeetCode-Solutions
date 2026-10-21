@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-shuffle-the-array](https://github.com/satwik068/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satwik068/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/satwik068/LeetCode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/satwik068/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satwik068/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/satwik068/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1096-brace-expansion-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/satwik068/LeetCode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/satwik068/LeetCode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1679-max-number-of-k-sum-pairs](https://github.com/satwik068/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satwik068/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/satwik068/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -494,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satwik068/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1510-stone-game-iv](https://github.com/satwik068/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/satwik068/LeetCode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/satwik068/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/satwik068/LeetCode-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/satwik068/LeetCode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
