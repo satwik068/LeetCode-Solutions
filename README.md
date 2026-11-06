@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/satwik068/LeetCode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satwik068/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/satwik068/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/satwik068/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/satwik068/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/satwik068/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/satwik068/LeetCode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/satwik068/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satwik068/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satwik068/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/satwik068/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/satwik068/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satwik068/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/satwik068/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/satwik068/LeetCode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/satwik068/LeetCode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1679-max-number-of-k-sum-pairs](https://github.com/satwik068/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -294,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/satwik068/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/satwik068/LeetCode-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/satwik068/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/satwik068/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/satwik068/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/satwik068/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/satwik068/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
