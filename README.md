@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satwik068/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/satwik068/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/satwik068/LeetCode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/satwik068/LeetCode-Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/satwik068/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/satwik068/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satwik068/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -668,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/satwik068/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/satwik068/LeetCode-Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/satwik068/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/satwik068/LeetCode-Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Bucket Sort
